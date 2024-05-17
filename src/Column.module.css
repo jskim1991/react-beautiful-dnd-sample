@@ -1,0 +1,16 @@
+
+.container {
+    margin: 8px;
+    border: 1px solid lightgrey;
+    border-radius: 2px;
+    padding: 18px;
+}
+
+.list {
+    transition: background-color 0.3s ease;
+    padding: 8px;
+}
+
+.draggingOver {
+    background-color: skyblue;
+}
